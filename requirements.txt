@@ -53,7 +53,7 @@ pyTelegramBotAPI==3.2.0
 pythonz-bd==1.11.4
 pytils==0.3
 queuelib==1.4.2
-requests==2.18.3
+requests==2.20.0
 resumable-urlretrieve==0.1.5
 selection==0.0.13
 service-identity==17.0.0
