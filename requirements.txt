@@ -61,7 +61,7 @@ sip==4.19.3
 six==1.10.0
 telegram==0.0.1
 tox==2.7.0
-urllib3==1.22
+urllib3==1.26.5
 user-agent==0.1.9
 virtualenv==15.1.0
 virtualenv-clone==0.2.6
